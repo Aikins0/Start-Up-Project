@@ -1,0 +1,50 @@
+@font-face {
+    font-family: WorkSans;
+    src: url(Fonts/WorkSans.ttf);
+}
+
+body {
+    
+}
+
+#logo {
+    width: 187px;
+    height: 50px;
+    font-family: WorkSans;
+    color: #FFFFFF;
+}
+
+img {
+    height: 48.31px;
+    width: 70px;
+}
+
+
+.intro-page {
+    height: 586px;
+    background: #74C69D;
+    padding-top: 35px;
+    padding: 135px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+nav li {
+    display: inline;
+    margin-left: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+nav {
+    width: auto;
+}
+
